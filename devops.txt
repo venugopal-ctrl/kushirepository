@@ -1,6 +1,0 @@
-include mo
-include conio
-inlcude math.h
-this is my first project in dev ops
-this is my first commit
-
